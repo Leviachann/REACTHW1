@@ -1,0 +1,13 @@
+
+.side-menu{
+    padding-top: 6em;
+    background-color: black;
+    padding-bottom: 15em;
+}
+.linkitem{
+    
+    color: white;
+}
+.linkitem:hover{
+    color: azure;
+}
